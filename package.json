@@ -16,6 +16,14 @@
   "bugs": {
     "url": "https://github.com/AkhandGit/MERN-Notebook/issues"
   },
+
+  "engines": {
+  "node": "18.x"
+  },
+
   "homepage": "https://github.com/AkhandGit/MERN-Notebook#readme",
   "description": ""
+
+  
 }
+
